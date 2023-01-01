@@ -6,7 +6,8 @@ export default function IndexPage() {
       <Head>
         <title>ksercher</title>
       </Head>
-      <div>aaa</div>
+      aaaaaa
+      <div>ああああテストテスト</div>
     </>
   )
 }

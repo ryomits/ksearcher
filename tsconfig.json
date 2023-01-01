@@ -7,7 +7,12 @@
     "noUnusedParameters": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@atoms/*": ["src/components/atoms/*"],
+      "@molecules/*": ["src/components/molecules/*"],
+      "@organisms/*": ["src/components/organisms/*"],
+      "@layouts/*": ["src/components/layouts/*"]
     },
     "esModuleInterop": true,
     "skipLibCheck": true,
